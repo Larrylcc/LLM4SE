@@ -1,0 +1,13 @@
+# Ignore configuration files with sensitive information
+.env
+.idea/
+
+# Ingore OS-specific files
+.DS_Store
+
+# Ignore other specific files or directories
+all-rag-techniques/
+ignore/
+PPT_OCR_2025/
+PPT2025/
+chroma_persistent_storage/
